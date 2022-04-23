@@ -10,3 +10,5 @@
 [![Build_CI - Linux](https://github.com/Kommina-Mohansai/M2_Embedded_LED_Switch/actions/workflows/Linux.yml/badge.svg)](https://github.com/Kommina-Mohansai/M2_Embedded_LED_Switch/actions/workflows/Linux.yml)
 
 [![Bulid CI - windows](https://github.com/Kommina-Mohansai/M2_Embedded_LED_Switch/actions/workflows/Windows.yml/badge.svg)](https://github.com/Kommina-Mohansai/M2_Embedded_LED_Switch/actions/workflows/Windows.yml)
+
+[![Git Inspector](https://github.com/Kommina-Mohansai/M2_Embedded_LED_Switch/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/Kommina-Mohansai/M2_Embedded_LED_Switch/actions/workflows/Git%20Inspector.yml)
